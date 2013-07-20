@@ -1,4 +1,5 @@
 Eye-in-the-Sky
 ==============
 
-Embedded C and base station code C# for the Spring 2012 Senior Design project.
+This repository contains the embedded C and base station C# code for the Eye In The Sky UAV made for ECE477 (Senior Design) at Purdue. It was retroactively added, but was actually completed in Spring 2012.
+Each folder contains a Readme which has useful information.
