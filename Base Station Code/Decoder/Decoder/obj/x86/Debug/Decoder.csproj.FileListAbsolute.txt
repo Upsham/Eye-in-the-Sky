@@ -1,0 +1,9 @@
+c:\users\upsham\documents\visual studio 2010\Projects\Decoder\Decoder\bin\Debug\Decoder.exe
+c:\users\upsham\documents\visual studio 2010\Projects\Decoder\Decoder\bin\Debug\Decoder.pdb
+c:\users\upsham\documents\visual studio 2010\Projects\Decoder\Decoder\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\upsham\documents\visual studio 2010\Projects\Decoder\Decoder\obj\x86\Debug\Decoder.Form1.resources
+c:\users\upsham\documents\visual studio 2010\Projects\Decoder\Decoder\obj\x86\Debug\Decoder.Properties.Resources.resources
+c:\users\upsham\documents\visual studio 2010\Projects\Decoder\Decoder\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\upsham\documents\visual studio 2010\Projects\Decoder\Decoder\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\upsham\documents\visual studio 2010\Projects\Decoder\Decoder\obj\x86\Debug\Decoder.exe
+c:\users\upsham\documents\visual studio 2010\Projects\Decoder\Decoder\obj\x86\Debug\Decoder.pdb

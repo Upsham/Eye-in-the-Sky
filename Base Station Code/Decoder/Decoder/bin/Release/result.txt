@@ -1,0 +1,4 @@
+Pressure Reading Follows:
+79401
+Temperature Reading Follows:
+247
